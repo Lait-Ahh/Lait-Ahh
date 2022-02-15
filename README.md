@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @Lait-Ahh
 - 👀 I’m interested in in the music and programation
 - 🌱 I’m currently using javascript and HTML/CSS
-- 📋 I know 
-  - eletron-js
-  - express-js
-  - socket.io
-  - three-js
-  - discord-js
+- 📋 I know electron-js, express-js, socket.io, three-js, discord-js
